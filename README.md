@@ -1,5 +1,5 @@
 # 🏔️ KALEO - Ranch Retreat Website Template
-
+# Live link: https://sidhantiitian17.github.io/Clone-Kaleo-BreakoutAI-/
 ![KALEO Template](images/open-20graph.avif)
 
 A modern, fully responsive website template inspired by ranch living and retreat experiences. This template features smooth GSAP-powered animations, scroll-triggered interactions, and a clean, professional design perfect for hospitality, tourism, or lifestyle brands.
