@@ -377,85 +377,7 @@ Contributions are welcome! Here's how you can help:
 - Follow existing naming conventions
 - Test on multiple browsers
 
-## 📄 License
 
-This project is provided as-is for educational and commercial use. 
-
-**Important Notes:**
-- This template was exported from Webflow
-- Font licenses: Check `images/*.ttf` files for usage rights
-- Images: Replace with your own for commercial projects
-- GSAP: Free for most use cases, check [GSAP licensing](https://greensock.com/licensing/)
-
-### Recommended License
-Consider using **MIT License** for open-source projects:
-
-```
-MIT License
-
-Copyright (c) 2025 [Your Name]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
-```
-
-## 👏 Credits
-
-### Design & Development
-- **Original Design**: Created with [Webflow](https://webflow.com)
-- **Template Author**: Lucas Gusso (based on HTML comments)
-- **Animation Libraries**: [GreenSock (GSAP)](https://greensock.com)
-
-### Third-Party Libraries
-- jQuery: [https://jquery.com](https://jquery.com)
-- GSAP: [https://greensock.com](https://greensock.com)
-- Webflow Framework: [https://webflow.com](https://webflow.com)
-
-### Fonts
-- **Cabinet Grotesk**: Indian Type Foundry
-- **Zodiak**: Optimo Type Foundry
-
-### Images & Media
-- Replace with your own licensed images for production use
-- Stock photos should be properly licensed
-
-## 📞 Support
-
-### Getting Help
-- 📖 Check [FILE_STRUCTURE.md](FILE_STRUCTURE.md) for technical details
-- 🐛 [Open an issue](https://github.com/yourusername/kaleo-template/issues) for bugs
-- 💬 [Discussions](https://github.com/yourusername/kaleo-template/discussions) for questions
-
-### Useful Resources
-- [Webflow University](https://university.webflow.com/)
-- [GSAP Documentation](https://greensock.com/docs/)
-- [MDN Web Docs](https://developer.mozilla.org/)
-
-## 🔄 Changelog
-
-### Version 1.1.0 (Current)
-- ✨ Renamed files for better developer experience
-- 🐛 Fixed CSS linting warnings
-- 📝 Added comprehensive documentation
-- 🔧 Improved code organization
-
-### Version 1.0.0 (Original)
-- 🎉 Initial Webflow export
-- ✅ All core features implemented
-- 🎨 Complete design system
-
-## 🗺️ Roadmap
-
-Potential future improvements:
-- [ ] Add TypeScript definitions
-- [ ] Create React component version
-- [ ] Add CMS integration examples
-- [ ] Create theme variations (dark mode)
-- [ ] Add more animation presets
-- [ ] Improve accessibility (WCAG 2.1 AA)
-- [ ] Add unit tests
-- [ ] Create Figma design file
 
 ## 📊 Stats
 
@@ -487,10 +409,3 @@ python -m http.server 8000
 
 <div align="center">
 
-**Made with ❤️ using Webflow, GSAP, and modern web technologies**
-
-⭐ Star this repo if you find it helpful!
-
-[Report Bug](https://github.com/yourusername/kaleo-template/issues) · [Request Feature](https://github.com/yourusername/kaleo-template/issues) · [Documentation](FILE_STRUCTURE.md)
-
-</div>
